@@ -1,0 +1,9 @@
+t 0 a 1 x R
+t 1 b 2 b R
+t 2 a 2 a R
+t 2 Z 3 Z H
+f 3
+i abbab
+i aaaaa
+i ab
+i abaaa
